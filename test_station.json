@@ -1,0 +1,83 @@
+{
+"stationList":
+    [
+        {
+            "name": "KBS 1라디오",
+            "stationAPI": "http://serpent0.duckdns.org:8088/kbs1radio.pls",
+            "imageURL": "https://www.dropbox.com/s/4evllu2rayolv9a/KBS%201Radio%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "KBS 2라디오",
+            "stationAPI": "http://serpent0.duckdns.org:8088/kbs2radio.pls",
+            "imageURL": "https://www.dropbox.com/s/ms6l1fix5plq6uv/KBS%202Radio%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "KBS 3라디오",
+            "stationAPI": "https://cfpwwwapi.kbs.co.kr/api/v1/landing/live/channel_code/23",
+            "imageURL": "https://www.dropbox.com/s/m94m4ikwez4jau3/KBS%203Radio%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "KBS Classic FM",
+            "stationAPI": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+            "imageURL": "https://www.dropbox.com/s/12pc1wn123u5b56/KBS%20Classic%20FM%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "KBS Cool FM",
+            "stationAPI": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+            "imageURL": "https://www.dropbox.com/s/32frt9shii8ggg0/KBS%20Cool%20FM%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "KBS 한민족방송",
+            "stationAPI": "https://cfpwwwapi.kbs.co.kr/api/v1/landing/live/channel_code/26",
+            "imageURL": "https://www.dropbox.com/s/nci0rhfasmd0ek0/KBS%20Korean%20People%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "KBS WORLD 라디오",
+            "stationAPI": "https://cfpwwwapi.kbs.co.kr/api/v1/landing/live/channel_code/I92",
+            "imageURL": "https://www.dropbox.com/s/2gb3o61p4uzqwh1/KBS%20WORLD%20Radio%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "MBC 표준FM",
+            "stationAPI": "http://serpent0.duckdns.org:8088/mbcsfm.pls",
+            "imageURL": "https://www.dropbox.com/s/14xtyq212a3qgag/MBC%20BasicFM%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "MBC FM4U",
+            "stationAPI": "http://serpent0.duckdns.org:8088/mbcfm.pls",
+            "imageURL": "https://www.dropbox.com/s/7f6a3al08lvclvx/MBC%20FM4U%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "SBS 파워FM",
+            "stationAPI": "http://serpent0.duckdns.org:8088/sbsfm.pls",
+            "imageURL": "https://www.dropbox.com/s/i8lmutz09k8syat/SBS%20PowerFM%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "SBS 러브FM",
+            "stationAPI": "http://serpent0.duckdns.org:8088/sbs2fm.pls",
+            "imageURL": "https://www.dropbox.com/s/iyxt24f01rbityn/SBS%20LoveFM%20Circle%401x.png?dl=0",
+            "streamURL": ""
+        },
+        {
+            "name": "EBS FM",
+            "stationAPI": "",
+            "imageURL": "https://www.dropbox.com/s/wi2ssoypadrgcxb/EBS%20FM%20Circle%401x.png?dl=0",
+            "streamURL": "http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8"
+        },
+        {
+            "name": "EBS 외국어라디오",
+            "stationAPI": "",
+            "imageURL": "https://www.dropbox.com/s/plf666h4ptfwhzl/EBS%20Forigin%20Circle%401x.png?dl=0",
+            "streamURL": "http://new_iradio.ebs.co.kr/iradio/iradiolive_m4a/playlist.m3u8"
+        }
+    ]
+}
